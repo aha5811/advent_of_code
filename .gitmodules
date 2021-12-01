@@ -1,0 +1,6 @@
+[submodule "wlbr"]
+	path = wlbr
+	url = git@github.com:wlbr/advent_of_code_2021.git
+[submodule "oechslein"]
+	path = oechslein
+	url = git@github.com:oechslein/AdventOfCode2021.git
