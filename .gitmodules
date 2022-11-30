@@ -1,12 +1,12 @@
 [submodule "2021/oechslein"]
 	path = 2021/oechslein
-	url = git@github.com:oechslein/AdventOfCode2021.git
+	url = https://github.com/oechslein/AdventOfCode2021
 [submodule "2021/wlbr"]
 	path = 2021/wlbr
 	url = git@github.com:wlbr/advent_of_code_2021.git
 [submodule "2020/oechslein"]
 	path = 2020/oechslein
-	url = git@github.com:oechslein/advent_of_code_2020.git
+	url = https://github.com/oechslein/AdventOfCode2020
 [submodule "2021/volker4711"]
 	path = 2021/volker4711
 	url = git@github.com:volker4711/aoc2021.git
@@ -16,3 +16,9 @@
 [submodule "2020/wlbr"]
 	path = 2020/wlbr
 	url = git@github.com:wlbr/advent_of_code_2020.git
+[submodule "2022/oechslein"]
+	path = 2022/oechslein
+	url = https://github.com/oechslein/AdventOfCode2022
+[submodule "2022/wolber"]
+	path = 2022/wolber
+	url = https://github.com/wlbr/advent_of_code_2022
