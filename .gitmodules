@@ -21,4 +21,4 @@
 	url = git@github.com:wlbr/advent_of_code_2022.git
 [submodule "2022/oechslein"]
 	path = 2022/oechslein
-	url = https://github.com/oechslein/AdventOfCode2022
+	url = git@github.com:oechslein/AdventOfCode2022.git
