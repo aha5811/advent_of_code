@@ -25,3 +25,4 @@ Collection of our members solutions to the 2021 editon of the Advent of Code
 |-----|----------|------|
 | Christoph Oechlein | Rust | https://github.com/oechslein/AdventOfCode2022 |
 | Michael Wolber | Go?  | https://github.com/wlbr/advent_of_code_2022 |
+| Alexander Hörnlein | Raku  | https://github.com/aha5811/AoC2022 |
